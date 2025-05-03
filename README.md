@@ -4,7 +4,7 @@ A C program that performs basic financial calculations—specifically simple and
 
 ## 📚 Course Context
 
-This project was created for my **Computer Organization** course at Pace University in **Fall 2023**, and it reflects my understanding of core C programming concepts like functions, loops, input/output, and math operations.
+This project was created as the final for my **Computer Organization** course in **Fall 2023**. It reflects my understanding of core C programming concepts.
 
 ## 🔧 Features
 
